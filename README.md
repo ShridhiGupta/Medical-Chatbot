@@ -41,8 +41,7 @@ A modern, responsive medical assistant chatbot built with React and powered by G
 
 1. **Clone the repository**
 ```bash
-git clone <repository-url>
-cd chatbot-ui
+git clone <https://github.com/ShridhiGupta/Medical-Chatbot.git>
 ```
 
 2. **Install dependencies**
@@ -75,7 +74,7 @@ The app will open at `http://localhost:3000`
 ## 📁 Project Structure
 
 ```
-chatbot-ui/
+Medical-Chatbot/
 ├── public/
 │   └── index.html                 # Main HTML file
 ├── src/
@@ -265,15 +264,12 @@ To contribute to this project:
 5. Push to the branch (`git push origin feature/YourFeature`)
 6. Open a Pull Request
 
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## 📞 Support
 
 For issues, questions, or suggestions:
 - Open an issue on the repository
-- Contact the development team
+- Contact (Email: guptashridhi11@gmail.com)
 
 ## 🙏 Acknowledgments
 

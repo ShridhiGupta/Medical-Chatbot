@@ -11,12 +11,20 @@ function InputBox({ onSend, disabled }) {
     }
   };
 
+  const handleKeyPress = (e) => {
+    if (e.key === 'Enter' && !e.shiftKey && !disabled) {
+      e.preventDefault();
+      handleSend();
+    }
+  };
+
   return (
     <div className="input-box">
       <input
         type="text"
         value={input}
         onChange={e => setInput(e.target.value)}
+        onKeyPress={handleKeyPress}
         placeholder="Type your message..."
         disabled={disabled}
       />

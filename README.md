@@ -1,8 +1,8 @@
-# LifeSense AI - Medical Chatbot
+1# LifeSense AI - Medical Chatbot
 
 A modern, responsive medical assistant chatbot built with React and powered by Google's Gemini AI. LifeSense AI provides healthcare information and support to all users through an intuitive, beautifully designed interface.
 
-## 🌟 Features
+## Features
 
 ### Core Features
 - **AI-Powered Medical Assistance**: Leverages Google Gemini API for accurate, evidence-based medical information
